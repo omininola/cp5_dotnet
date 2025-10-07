@@ -1,13 +1,11 @@
 # CP5 .NET | Eventos Culturais
 
 ## Integrantes
-|----------------------------------|
 | Nome                    |   RM   |
 |-------------------------|--------|
 | Otavio Miklos Nogueira  | 554513 |
 | Luciayla Yumi Kawakami  | 557987 |
 | Nathália Gomes da Silva | 554945 |
-|----------------------------------|
 
 ## Links
 - Youtube: [https://youtu.be/f6sIjeu1WxI](https://youtu.be/f6sIjeu1WxI)
